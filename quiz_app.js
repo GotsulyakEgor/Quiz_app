@@ -93,20 +93,4 @@ const questions = [
             { text: 'Думаю да', correct: true }
         ]
     },
-    // {
-    //     question: 'Is web development fun?',
-    //     answers: [
-    //         { text: 'Kinda', correct: false },
-    //         { text: 'YES!!!', correct: true },
-    //         { text: 'Um no', correct: false },
-    //         { text: 'IDK', correct: false }
-    //     ]
-    // },
-    // {
-    //     question: 'What is 4 * 2?',
-    //     answers: [
-    //         { text: '6', correct: false },
-    //         { text: '8', correct: true }
-    //     ]
-    // }
 ]
