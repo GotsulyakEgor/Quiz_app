@@ -85,7 +85,7 @@ const questions = [
         ]
     },
     {
-        question: 'Егор молодец?',
+        question: 'Епам лучшая IT компания?',
         answers: [
             { text: 'Да', correct: true },
             { text: 'Конечно да', correct: true },
